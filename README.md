@@ -7,43 +7,43 @@
 ## 交互说明
 下方使用图片进行介绍交互位置
 
-![1](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/1.png)
+![1](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/1.png)
 
-![2](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/2.png)
+![2](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/2.png)
 
-![3](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/3.png)
+![3](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/3.png)
 
-![4](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/4.png)
+![4](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/4.png)
 
-![5](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/5.png)
+![5](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/5.png)
 
-![6](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/6.png)
+![6](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/6.png)
 
-![7](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/7.png)
+![7](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/7.png)
 
-![8](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/8.png)
+![8](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/8.png)
 
-![9](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/9.png)
+![9](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/9.png)
 
-![10](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/10.png)
+![10](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/10.png)
 
-![11](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/11.png)
+![11](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/11.png)
 
-![12](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/12.png)
+![12](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/12.png)
 
-![13](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/13.png)
+![13](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/13.png)
 
-![14](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/14.png)
+![14](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/14.png)
 
-![15](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/15.png)
+![15](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/15.png)
 
-![16](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/16.png)
+![16](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/16.png)
 
-![17](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/17.png)
+![17](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/17.png)
 
-![18](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/18.png)
+![18](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/18.png)
 
-![19](https://gitee.com/ICanLearnAll/Axure-QQMusic/raw/master/intro-img/19.png)
+![19](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/19.png)
 
 
 
