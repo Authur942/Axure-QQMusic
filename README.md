@@ -5,7 +5,10 @@
 
 
 ## 交互说明
-下方使用图片进行介绍交互位置
+
+！！！注意！！！可能会因为网络慢而出现图片加载失败的问题，若加载失败，请点开图片查看！
+
+下方使用图片进行介绍交互位置：
 
 ![1](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/1.png)
 
