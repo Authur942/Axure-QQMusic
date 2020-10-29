@@ -7,43 +7,43 @@
 ## 交互说明
 下方使用图片进行介绍交互位置
 
-![1](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/1.png)
+![1](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/1.png)
 
-![2](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/2.png)
+![2](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/2.png)
 
-![3](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/3.png)
+![3](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/3.png)
 
-![4](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/4.png)
+![4](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/4.png)
 
-![5](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/5.png)
+![5](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/5.png)
 
-![6](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/6.png)
+![6](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/6.png)
 
-![7](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/7.png)
+![7](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/7.png)
 
-![8](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/8.png)
+![8](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/8.png)
 
-![9](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/9.png)
+![9](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/9.png)
 
-![10](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/10.png)
+![10](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/10.png)
 
-![11](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/11.png)
+![11](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/11.png)
 
-![12](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/12.png)
+![12](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/12.png)
 
-![13](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/13.png)
+![13](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/13.png)
 
-![14](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/14.png)
+![14](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/14.png)
 
-![15](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/15.png)
+![15](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/15.png)
 
-![16](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/16.png)
+![16](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/16.png)
 
-![17](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/17.png)
+![17](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/17.png)
 
-![18](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/18.png)
+![18](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/18.png)
 
-![19](https://gitee.com/Authur942/Axure-QQMusic/blob/main/intro-img/19.png)
+![19](https://raw.githubusercontent.com/wiki/Authur942/Axure-QQMusic/19.png)
 
 
 
